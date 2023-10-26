@@ -1,0 +1,10 @@
+ivan.ivanov@example.com
+petr.petrov@example.com
+sidor.sidorov@example.com
+vasiliy.vasiliev@example.com
+fedor.fedorov@example.com
+mikhail.mikhaylov@example.com
+aleksandr.aleksandrov@example.com
+roman.romanov@example.com
+aleksey.alekseev@example.com
+boris.borisov@example.com
